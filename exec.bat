@@ -1,0 +1,1 @@
+./mvnw quarkus:dev -Dquarkus.http.port=8080
